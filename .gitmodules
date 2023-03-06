@@ -1,3 +1,6 @@
 [submodule "NumericalMethods"]
 	path = NumericalMethods
 	url = git@github.com:Noarkhh/NumericalMethods.git
+[submodule "ErlangAndElixir"]
+	path = ErlangAndElixir
+	url = git@github.com:Noarkhh/ErlangAndElixir.git

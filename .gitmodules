@@ -4,3 +4,6 @@
 [submodule "ErlangAndElixir"]
 	path = ErlangAndElixir
 	url = git@github.com:Noarkhh/ErlangAndElixir.git
+[submodule "OperatingSystemsLabs"]
+	path = OperatingSystemsLabs
+	url = git@github.com:Noarkhh/OperatingSystemsLabs.git

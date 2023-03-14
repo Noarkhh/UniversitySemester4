@@ -7,3 +7,6 @@
 [submodule "OperatingSystemsLabs"]
 	path = OperatingSystemsLabs
 	url = git@github.com:Noarkhh/OperatingSystemsLabs.git
+[submodule "DiscreetSystemsModelingLabs"]
+	path = DiscreetSystemsModelingLabs
+	url = git@github.com:Noarkhh/DiscreetSystemsModelingLabs.git

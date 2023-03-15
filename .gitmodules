@@ -10,3 +10,6 @@
 [submodule "DiscreetSystemsModelingLabs"]
 	path = DiscreetSystemsModelingLabs
 	url = git@github.com:Noarkhh/DiscreetSystemsModelingLabs.git
+[submodule "ScalaLabs"]
+	path = ScalaLabs
+	url = git@github.com:Noarkhh/ScalaLabs.git

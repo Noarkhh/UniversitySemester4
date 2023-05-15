@@ -13,3 +13,9 @@
 [submodule "ScalaLabs"]
 	path = ScalaLabs
 	url = git@github.com:Noarkhh/ScalaLabs.git
+[submodule "FungalGrowth"]
+	path = FungalGrowth
+	url = .\\FungalGrowth\\
+[submodule "AntsColonyProject"]
+	path = AntsColonyProject
+	url = .\\AntsColonyProject\\
